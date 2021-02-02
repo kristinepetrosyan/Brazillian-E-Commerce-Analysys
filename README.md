@@ -37,4 +37,4 @@ The data was provided from Kaggle https://www.kaggle.com/olistbr/brazilian-ecomm
     - Though 'watches' segment is the largest part of revenue, it has only two sellers. Furthermore, the leading seller generated 97.0% of segment revenue.
     
     
-    
+    Please feel fee to contact me kristinelpetrosyan@gmail.com.
