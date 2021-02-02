@@ -18,7 +18,7 @@ The [Jupyter Notebook](https://github.com/kristinepetrosyan/Brazillian-E-Commerc
 
 ## Data
 
-The data was provided from Kaggle https://www.kaggle.com/olistbr/brazilian-ecommerce.
+The data was provided from Kaggle https://www.kaggle.com/olistbr/brazilian-ecommerce and https://www.kaggle.com/olistbr/marketing-funnel-olist.
 
 ## Methodology
 
